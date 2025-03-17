@@ -16,3 +16,4 @@ C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BancoConsole
 C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BancoConsole\obj\Debug\net9.0\BancoConsole.pdb
 C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BancoConsole\obj\Debug\net9.0\BancoConsole.genruntimeconfig.cache
 C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BancoConsole\obj\Debug\net9.0\ref\BancoConsole.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BancoConsole\obj\Debug\net9.0\BancoConsole.sourcelink.json
