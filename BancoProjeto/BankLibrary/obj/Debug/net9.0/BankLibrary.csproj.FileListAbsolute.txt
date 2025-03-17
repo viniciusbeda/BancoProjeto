@@ -1,0 +1,11 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\bin\Debug\net9.0\BankLibrary.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\bin\Debug\net9.0\BankLibrary.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\bin\Debug\net9.0\BankLibrary.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\BankLibrary.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\BankLibrary.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\refint\BankLibrary.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\BankLibrary.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\BancoProjeto\BancoProjeto\BankLibrary\obj\Debug\net9.0\ref\BankLibrary.dll
